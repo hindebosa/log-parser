@@ -111,7 +111,7 @@ export class LogFileController {
           dateCapture,
           merchantType,
           transactionDate,
-          serialNumber,
+   
         });
       });
       const filteredArray = newArray.filter((obj) => {
